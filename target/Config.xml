@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    //URL
+    <SET1>
+        <URL>https://www.next.co.il/en</URL>
+        <URL>https://www.next.co.il/en/homeware</URL>
+        <URL>https://www.next.co.il/he/style/st790316/239415#239415</URL>
+    </SET1>
+
+    //sign in details
+    <SET2>
+        <EMAIL>st12@gmail.com</EMAIL>
+        <PASSWORD>malka18</PASSWORD>
+        <PRODUCT>שמיכה</PRODUCT>
+    </SET2>
+
+    //payment details
+    <SET3>
+        <CardNumber>124578654123</CardNumber>
+        <ExpiryMonth>05</ExpiryMonth>
+        <ExpiryYear>23</ExpiryYear>
+        <SecurityCode>254</SecurityCode>
+    </SET3>
+</config>
